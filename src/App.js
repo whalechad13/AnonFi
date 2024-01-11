@@ -23,11 +23,12 @@ function App() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
+  const baseUrl = process.env.PUBLIC_URL; 
 
   return (
     <>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path={baseUrl + "/"} element={<Home />} />
         <Route path="home-two" element={<HomeTwo />} />
         <Route path="blog" element={<Blog />} />
         <Route path="blog-details" element={<BlogDetailsPage />} />
