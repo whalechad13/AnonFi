@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# OSX
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Thumbnails
+Thumbs.db
+
+# macOS folder attributes
+.AppleDouble
+.DS_Store
