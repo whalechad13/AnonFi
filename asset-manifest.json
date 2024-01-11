@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://whalechad13.github.io/AnonFi/static/css/main.a79255ee.css",
-    "main.js": "https://whalechad13.github.io/AnonFi/static/js/main.4a302d9b.js",
+    "main.js": "https://whalechad13.github.io/AnonFi/static/js/main.e2e3346f.js",
     "static/media/fa-solid-900.svg": "https://whalechad13.github.io/AnonFi/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "https://whalechad13.github.io/AnonFi/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
     "static/media/tr-logo.png": "https://whalechad13.github.io/AnonFi/static/media/tr-logo.4d43308467e10f3c4849.png",
@@ -51,10 +51,10 @@
     "index.html": "https://whalechad13.github.io/AnonFi/index.html",
     "static/media/choose_icon01.svg": "https://whalechad13.github.io/AnonFi/static/media/choose_icon01.f80d1c22f7daa3589baa5b2e0b308a74.svg",
     "main.a79255ee.css.map": "https://whalechad13.github.io/AnonFi/static/css/main.a79255ee.css.map",
-    "main.4a302d9b.js.map": "https://whalechad13.github.io/AnonFi/static/js/main.4a302d9b.js.map"
+    "main.e2e3346f.js.map": "https://whalechad13.github.io/AnonFi/static/js/main.e2e3346f.js.map"
   },
   "entrypoints": [
     "static/css/main.a79255ee.css",
-    "static/js/main.4a302d9b.js"
+    "static/js/main.e2e3346f.js"
   ]
 }
