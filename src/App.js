@@ -23,7 +23,7 @@ function App() {
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [pathname]);
-  const baseUrl = process.env.PUBLIC_URL; 
+  const baseUrl = "/AnonFi"; 
 
   return (
     <>
